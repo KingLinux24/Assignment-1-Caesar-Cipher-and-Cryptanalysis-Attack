@@ -37,7 +37,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/YourUsername/Cryptography-Labs.git
+git clone https://github.com/KingLinux24/Assignment-1-Caesar-Cipher-and-Cryptanalysis-Attack.git
 cd Cryptography-Labs/Assignment_1_Caesar_Cipher # Adjust if you put it in a subfolder
 Run the Python script:
 
