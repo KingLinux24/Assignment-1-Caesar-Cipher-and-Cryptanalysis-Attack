@@ -15,13 +15,13 @@ Brute Force Attack: Attempts to find the correct key by trying all 26 possible s
 How to Run:
 1. Clone this repository:
 
-'''Bash
+` ```bash 
 git clone https://github.com/YourUsername/Cryptography-Labs.git
-cd Cryptography-Labs/Assignment_1_Caesar_Cipher # Adjust path if different
+cd Cryptography-Labs/Assignment_1_Caesar_Cipher # Adjust path if different`
 
 2. Execute the Python script:
 
-'''Bash
-python caesar_cipher.py
+ ` ```bash
+python caesar_cipher.py`
 
 Follow the interactive menu prompts.
