@@ -25,7 +25,10 @@ How to Run:
 
 2. Execute the Python script:
 
- ` ```bash
-python caesar_cipher.py`
+`bash`
+
+
+`python caesar_cipher.py`
+
 
 Follow the interactive menu prompts.
